@@ -1,0 +1,6 @@
+Model: google/gemma-3-4b-it
+Task: whatsup
+Per-direction:
+  left: 649/1074 = 0.6043
+  right: 693/1074 = 0.6453
+OVERALL: 1342/2148 = 0.6248

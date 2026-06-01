@@ -1,0 +1,8 @@
+Model: mistral-community/pixtral-12b
+Task: shapes
+Per-direction:
+  left: 83/120 = 0.6917
+  right: 97/120 = 0.8083
+  above: 84/120 = 0.7000
+  below: 100/120 = 0.8333
+OVERALL: 364/480 = 0.7583

@@ -1,0 +1,8 @@
+Model: mistral-community/pixtral-12b
+Task: objects
+Per-direction:
+  left: 130/336 = 0.3869
+  right: 125/336 = 0.3720
+  above: 163/336 = 0.4851
+  below: 144/336 = 0.4286
+OVERALL: 562/1344 = 0.4182

@@ -1,0 +1,23 @@
+| model | setting | orientation | acc | loss |
+|-------|---------|-------------|-----|------|
+| gemma3 | objects | horizontal | 1.0000 | 0.0169 |
+| gemma3 | objects | vertical | 1.0000 | 0.0241 |
+| gemma3 | shapes | horizontal | 0.9988 | 0.0297 |
+| gemma3 | shapes | vertical | 0.9901 | 0.0313 |
+| gemma3 | squares | horizontal | 1.0000 | 0.0168 |
+| gemma3 | squares | vertical | 1.0000 | 0.0120 |
+| gemma3 | whatsup | horizontal | 0.9564 | 0.0662 |
+| pixtral | objects | horizontal | 1.0000 | 0.0206 |
+| pixtral | objects | vertical | 0.9960 | 0.0571 |
+| pixtral | shapes | horizontal | 1.0000 | 0.0054 |
+| pixtral | shapes | vertical | 1.0000 | 0.0200 |
+| pixtral | squares | horizontal | 0.8972 | 0.2031 |
+| pixtral | squares | vertical | 0.8972 | 0.2005 |
+| pixtral | whatsup | horizontal | 0.8634 | 0.3179 |
+| qwen2vl | objects | horizontal | 1.0000 | 0.0032 |
+| qwen2vl | objects | vertical | 1.0000 | 0.0080 |
+| qwen2vl | shapes | horizontal | 1.0000 | 0.0007 |
+| qwen2vl | shapes | vertical | 1.0000 | 0.0038 |
+| qwen2vl | squares | horizontal | 1.0000 | 0.0029 |
+| qwen2vl | squares | vertical | 1.0000 | 0.0052 |
+| qwen2vl | whatsup | horizontal | 0.9510 | 0.0700 |

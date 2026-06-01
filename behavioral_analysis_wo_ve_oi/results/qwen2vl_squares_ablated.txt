@@ -1,0 +1,8 @@
+Model: Qwen/Qwen2-VL-7B-Instruct
+Task: squares
+Per-direction:
+  left: 102/120 = 0.8500
+  right: 72/120 = 0.6000
+  above: 52/120 = 0.4333
+  below: 60/120 = 0.5000
+OVERALL: 286/480 = 0.5958

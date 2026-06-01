@@ -1,0 +1,6 @@
+Model: Qwen/Qwen2-VL-7B-Instruct
+Task: whatsup
+Per-direction:
+  left: 234/314 = 0.7452
+  right: 223/314 = 0.7102
+OVERALL: 457/628 = 0.7277

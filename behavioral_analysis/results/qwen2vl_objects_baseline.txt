@@ -1,0 +1,8 @@
+Model: Qwen/Qwen2-VL-7B-Instruct
+Task: objects
+Per-direction:
+  left: 336/336 = 1.0000
+  right: 336/336 = 1.0000
+  above: 336/336 = 1.0000
+  below: 336/336 = 1.0000
+OVERALL: 1344/1344 = 1.0000

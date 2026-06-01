@@ -1,0 +1,8 @@
+Model: google/gemma-3-4b-it
+Task: shapes
+Per-direction:
+  left: 120/120 = 1.0000
+  right: 120/120 = 1.0000
+  above: 117/120 = 0.9750
+  below: 116/120 = 0.9667
+OVERALL: 473/480 = 0.9854

@@ -1,0 +1,8 @@
+Model: Qwen/Qwen2-VL-7B-Instruct
+Task: shapes
+Per-direction:
+  left: 120/120 = 1.0000
+  right: 120/120 = 1.0000
+  above: 120/120 = 1.0000
+  below: 120/120 = 1.0000
+OVERALL: 480/480 = 1.0000

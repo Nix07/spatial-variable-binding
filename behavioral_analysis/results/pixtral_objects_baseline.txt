@@ -1,0 +1,8 @@
+Model: mistral-community/pixtral-12b (bf16 ablation)
+Task: objects
+Per-direction:
+  left: 126/210 = 0.6000
+  right: 118/210 = 0.5619
+  above: 142/210 = 0.6762
+  below: 141/210 = 0.6714
+OVERALL: 527/840 = 0.6274

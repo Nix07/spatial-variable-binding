@@ -1,0 +1,8 @@
+Model: google/gemma-3-4b-it
+Task: squares
+Per-direction:
+  left: 64/120 = 0.5333
+  right: 56/120 = 0.4667
+  above: 82/120 = 0.6833
+  below: 70/120 = 0.5833
+OVERALL: 272/480 = 0.5667

@@ -1,0 +1,13 @@
+model,task,ours,paper,delta,match,n_correct,n_total,source
+qwen2vl,squares,0.9979,1.0,-0.0021,OK,479,480,pkl
+qwen2vl,shapes,1.0,1.0,0.0,OK,480,480,pkl
+qwen2vl,objects,1.0,0.73,0.27,HIGH,1344,1344,pkl
+qwen2vl,whatsup,0.7277,0.73,-0.0023,OK,457,628,pkl
+gemma3,squares,0.975,0.98,-0.005,OK,468,480,pkl
+gemma3,shapes,0.9854,0.99,-0.0046,OK,473,480,pkl
+gemma3,objects,0.9874,0.99,-0.0026,OK,1327,1344,pkl
+gemma3,whatsup,0.6248,0.62,0.0048,OK,1342,2148,pkl
+pixtral,squares,0.55,0.6,-0.05,LOW,264,480,pkl
+pixtral,shapes,0.5229,0.55,-0.0271,OK,251,480,pkl
+pixtral,objects,0.6274,0.63,-0.0026,OK,527,840,pkl
+pixtral,whatsup,0.438,0.43,0.008,OK,212,484,pkl

@@ -1,0 +1,8 @@
+Model: mistral-community/pixtral-12b
+Task: squares
+Per-direction:
+  left: 38/120 = 0.3167
+  right: 61/120 = 0.5083
+  above: 35/120 = 0.2917
+  below: 62/120 = 0.5167
+OVERALL: 196/480 = 0.4083

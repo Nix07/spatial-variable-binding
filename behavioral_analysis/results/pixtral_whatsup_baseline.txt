@@ -1,0 +1,6 @@
+Model: mistral-community/pixtral-12b (bf16 ablation)
+Task: whatsup
+Per-direction:
+  left: 103/242 = 0.4256
+  right: 109/242 = 0.4504
+OVERALL: 212/484 = 0.4380

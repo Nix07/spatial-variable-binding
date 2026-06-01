@@ -1,0 +1,8 @@
+Model: google/gemma-3-4b-it
+Task: objects
+Per-direction:
+  left: 145/336 = 0.4315
+  right: 173/336 = 0.5149
+  above: 164/336 = 0.4881
+  below: 245/336 = 0.7292
+OVERALL: 727/1344 = 0.5409

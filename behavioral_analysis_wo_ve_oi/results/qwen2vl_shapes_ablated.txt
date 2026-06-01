@@ -1,0 +1,8 @@
+Model: Qwen/Qwen2-VL-7B-Instruct
+Task: shapes
+Per-direction:
+  left: 91/120 = 0.7583
+  right: 78/120 = 0.6500
+  above: 63/120 = 0.5250
+  below: 62/120 = 0.5167
+OVERALL: 294/480 = 0.6125
